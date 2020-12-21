@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: v2.0.0
 description: K8s-TrilioVault-Operator is an operator designed to manage the K8s-TrilioVault Application Lifecycle.
 home: https://github.com/trilioData/k8s-triliovault
-icon: https://github.com/trilio-ravitripathi/helm3-charts/charts/triliovault-for-kubernetes/v2.0.0/chart-icon.png
+icon: file://chart-icon.png
 maintainers:
 - email: prafull.ladha@trilio.io
   name: ladhaprafull
